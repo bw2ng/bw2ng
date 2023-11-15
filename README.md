@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Newman
+### Hi there 👋, I'm Bonar
 ---
 I'm currently a graduate in Biotechnology and Bioinformatics at [University of Waterloo](https://uwaterloo.ca/biology/degrees-and-programs). I'm passionate about data analysis and am always eager to learn new things about this field. 
 
